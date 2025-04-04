@@ -39,7 +39,7 @@
 
 ## 📂 Project Structure
 ```
-SmartPodScaler/
+AIAutoScaler/
 │-- ipl_train_data.csv
 │-- ipl_test_data.csv
 │── predictions.ipynb
@@ -53,5 +53,5 @@ SmartPodScaler/
 - Compare with other ML frameworks like `AutoGluon`.
 
 ## 🏁 Conclusion
-SmartPodScaler leverages AI to **intelligently predict and optimize Kubernetes pod scaling**, ensuring high availability and cost efficiency during high-traffic events. 🚀
+AIAutoScaler leverages AI to **intelligently predict and optimize Kubernetes pod scaling**, ensuring high availability and cost efficiency during high-traffic events. 🚀
 
