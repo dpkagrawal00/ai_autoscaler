@@ -40,11 +40,9 @@
 ## 📂 Project Structure
 ```
 SmartPodScaler/
-│-- data/
-│   ├── ipl_train_data.csv
-│   ├── ipl_test_data.csv
-│-- notebooks/
-│   ├── predictions.ipynb
+│-- ipl_train_data.csv
+│-- ipl_test_data.csv
+│── predictions.ipynb
 │-- README.md
 ```
 
